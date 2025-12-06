@@ -1,9 +1,9 @@
 # Hi there, I'm Gaurav 👋
 
-### A passionate developer from Bangalore
+### A passionate developer from Bhavnagar
 
 * 🔭 I’m currently working on github ( learning from skillup online )
-* 🌱 I’m currently learning ...
+* 🌱 I’m currently learning Data Analyst
 * 👯 I’m looking to collaborate on ...
 * 💬 Ask me about ...
 * 📫 How to reach me: [test@gmail.com](mailto:test@gmail.com)
